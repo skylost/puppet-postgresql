@@ -1,0 +1,14 @@
+{
+  "name": "weezhard-postgresql",
+  "version": "1.0.0",
+  "author": "weezhard",
+  "summary": "puppet module for postgresql with pgdg repository",
+  "license": "Apache 2.0",
+  "source": "https://github.com/skylost/puppet-postgresql.git",
+  "project_page": "https://github.com/skylost/puppet-postgresql",
+  "issues_url": "https://github.com/skylost/puppet-postgresql/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
